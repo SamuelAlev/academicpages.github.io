@@ -2,7 +2,7 @@
 title: "Oromys formator"
 collection: teaching
 type: "Professional formation"
-permalink: /teaching/2019-oromys-formator
+permalink: /teaching/2019-oromys-trainer
 venue: "Oromys"
 date: 2019-01-01
 location: "France"
