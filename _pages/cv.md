@@ -27,15 +27,44 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Web
+  * PHP
+    * Laravel
+    * Symfony
+  * JavaScript
+    * NodeJS
+    * Vue.js
+    * React
+    * Angular
+  * Python
+    * Django
+    * Flask
+
+* Databases
+  * SQL
+    * MySQL
+    * Postgres
+    * SQL Server
+  * NoSQL
+    * MongoDB
+
+* Big Data
+  * Hadoop
+  * Kafka
+  * Flume
+  * Spark
+  * Elasticsearch
+  * R & Python
+    * Data analysis
+    * TensorFlow
+
+* DevOps
+  * Docker
+  * Kubernetes
+  * Amazon Web Services (AWS)
+  * Google Cloud Platform (GCP)
 
 
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
