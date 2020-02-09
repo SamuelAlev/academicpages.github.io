@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Samuel Alev"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Brussels"
+  bio              : "Javascript lover, FullStack developer, Machine learning enthusiast"
+  location         : "Brussels, Belgium"
   employer         :
   pubmed           :
   googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Samuel_Alev"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-5022-5940"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -217,7 +217,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -235,7 +234,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
   # _talks
   - scope:
       path: ""
