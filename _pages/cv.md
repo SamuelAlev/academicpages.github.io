@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/resume.pdf"><i class="fa fa-paperclip"></i> <span>Resume</span></a>
+<a href="/files/resume.pdf"><i class="fa fa-paperclip"></i> <span style="padding-left: 5px;">Resume (PDF file)</span></a>
 
 Education
 ======
