@@ -8,13 +8,32 @@ date: 2019-01-01
 location: "France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching in companies cutting edge technologies in JavaScript, Python, Big Data & DevOps.
 
-Heading 1
+JavaScript
 ======
+* NodeJS
+* Vue.js
+* React (Native)
+* Angular(JS)
+* Real time technologies (WebSockets, WebRTC)
 
-Heading 2
+Python
 ======
+* SciKit
+* Tensorflow
+* Django
+* Flask
 
-Heading 3
+Big Data
 ======
+* Hadoop
+* Spark
+* Kafka
+
+DevOps
+======
+* Docker
+* Kubernetes
+* Amazon Web Services
+* Google Cloud Platform

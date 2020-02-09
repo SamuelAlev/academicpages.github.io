@@ -1,20 +1,38 @@
 ---
 title: "SUPINFO teacher"
 collection: teaching
-type: "Bachelor & Master courses"
+type: "Bachelor & Master courses teacher"
 permalink: /teaching/2016-supinfo-teaching
 venue: "Supinfo"
 date: 2016-01-01
 location: "Belgium & France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Help creating the courses and teach on differents campuses
 
-Heading 1
+Web
 ======
+* PHP
+  * Laravel
+  * Symfony
+* JavaScript
+  * NodeJS
+  * Vue.js
+  * React
+  * Angular
 
-Heading 2
+Big Data
 ======
+* Hadoop
+* Kafka
+* Flume
+* Spark
+* R & Python
+  * Data analysis
 
-Heading 3
+DevOps
 ======
+* Docker
+* Kubernetes
+* Amazon Web Services (AWS)
+* Google Cloud Platform (GCP)
