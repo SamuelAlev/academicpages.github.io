@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<i class="fa fa-paperclip"></i>
+
 Education
 ======
 
@@ -27,22 +29,22 @@ Work experience
 
 
 * Oromys: Trainer
-  Teaching companies cutting edge technologies in JavaScript, principally React (Native), AngularJS/8, Vue.js, and Python, big data principally with TensorFlow, Hadoop and Spark.
+  Teaching companies cutting edge technologies in JavaScript, principally React (Native), AngularJS/8, Vue.js, and Python, big data principally with TensorFlow, Hadoop and Spark.  
   * Gave formations to more than 200 persons from big companies.
 
 * DMBA: Full Stack Developper
-  Developing a web application in PHP (Laravel) and VueJS/NuxtJS to sell medical formations and a real time eLearning platform with WebRTC.
+  Developing a web application in PHP (Laravel) and VueJS/NuxtJS to sell medical formations and a real time eLearning platform with WebRTC.  
   * Reduced frontend codebase by 30% by refactoring VueJS components using atomic design;
   * Integrated Stripe API into a Laravel payment platform to allow processing of ~100.000€/month;
   * Utilized JavaScript and C3.js library to design metrics graphs for monthly company reporting.
 
 * BBJTO: Full Stack Developper
-  Creation from scratch of a Blackjack game in real time with WebSockets supported on desktops, tablets and phones with JavaScript (NodeJS) and GraphQL.
+  Creation from scratch of a Blackjack game in real time with WebSockets supported on desktops, tablets and phones with JavaScript (NodeJS) and GraphQL.  
   * Multi-room game design to be able to have multiple games at the same time;
   * Designed stats charts with the data obtained from the game and stored in NoSQL (MongoDB).
 
 * Boxify: Full Stack Developper
-  Redesign of a customer app with React Native for Android and iOS.
+  Redesign of a customer app with React Native for Android and iOS.  
   * Refactored codebase to follow React Native best practices, and expanded test coverage to 95%;
   * Cut average taps by 40% through optimizing UI/UX by eliminating repetitive elements.
 
