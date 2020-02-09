@@ -62,6 +62,15 @@ Proefficient in web development, DevOps & Big Data.
 * **DevOps**: Docker, Kubernetes, Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
 
+Contributing
+======
+
+* Maintainer at TensorFlow
+* Maintainer at Gatsby
+* Maintainer at Vue.js
+* Volunteer at FOSDEM
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
