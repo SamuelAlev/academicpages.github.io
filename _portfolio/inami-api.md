@@ -10,4 +10,5 @@ I did a multi-process web scrapper on the website which is updating the data eve
 The API is hosted on [Heroku Free Tier](https://heroku.com/) and use [MongoDB free mLab](https://mlab.com/) as storage.  
 The web scrapper is made using [NodeJS](https://nodejs.org/) and [Puppeteer](https://github.com/puppeteer/puppeteer).  
   
+{: .notice}
 The documentation is present [here](https://inami.samalev.be/docs/v1/)
