@@ -1,7 +1,7 @@
 ---
-title: "SUPINFO"
+title: "SUPINFO teacher"
 collection: teaching
-type: "Undergraduate course"
+type: "Bachelor & Master courses"
 permalink: /teaching/2016-supinfo-teaching
 venue: "Supinfo"
 date: 2016-01-01
