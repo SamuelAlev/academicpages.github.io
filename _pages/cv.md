@@ -35,7 +35,7 @@ Work experience
 * **DMBA**: Full Stack Developper  
   Developing a web application in PHP (Laravel) and VueJS/NuxtJS to sell medical formations and a real time eLearning platform with WebRTC.
   * Reduced frontend codebase **by 30%** by refactoring VueJS components using atomic design;
-  * Integrated Stripe API into a Laravel payment platform to **allow processing of ~100.000€/month**;
+  * Integrated Stripe API into a Laravel to allow payments;
   * Utilized JavaScript and C3.js library to design metrics graphs for monthly company reporting.
 
 * **BBJTO**: Full Stack Developper  
