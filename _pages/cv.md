@@ -68,8 +68,6 @@ Contributing
 * Maintainer at TensorFlow
 * Maintainer at Gatsby
 * Maintainer at Vue.js
-* Volunteer at FOSDEM
-
 
 Teaching
 ======
@@ -83,11 +81,10 @@ Languages
 
 * **French**: Mother tongue;
 * **English**: Very good level;
-* **Dutch**: Basic notion in writing and reading
 
 
 Hobbies
 ======
 
 * **Music**: Ukulele and Kalimba;
-* **Sports**: outdoors rollers with friends
+* **Sports**: Hiking, outdoors rollers with friends
