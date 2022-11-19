@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Alev"
-  avatar           : "profile.png"
-  bio              : "21 years old<br/>Javascript lover, FullStack developer, Machine learning enthusiast"
-  location         : "Brussels, Belgium"
+  avatar           : "profile.jpg"
+  bio              : "23 years old<br/>Javascript lover, FullStack developer, Machine learning enthusiast"
+  location         : "St Gallen, Switzerland"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    :
   email            :
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -149,7 +149,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: "UTF-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
